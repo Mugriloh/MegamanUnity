@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: d0c23121570a59e4f895704b94223ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6549254845419704095
+    second: MegaManTile_0
+  - first:
+      213: -7845984811087571153
+    second: MegaManTile_1
+  - first:
+      213: 7345765536798670689
+    second: MegaManTile_2
+  - first:
+      213: 4804189294758490543
+    second: MegaManTile_3
+  - first:
+      213: 2075604711481432150
+    second: MegaManTile_4
+  - first:
+      213: 603153770436498325
+    second: MegaManTile_5
+  - first:
+      213: 8470051583537134106
+    second: MegaManTile_6
+  - first:
+      213: 3113103769913442386
+    second: MegaManTile_7
+  - first:
+      213: -7845306509298084048
+    second: MegaManTile_8
+  - first:
+      213: -8626273943538439672
+    second: MegaManTile_9
+  - first:
+      213: 7184039767382994816
+    second: MegaManTile_10
+  - first:
+      213: 1012343348344060247
+    second: MegaManTile_11
+  - first:
+      213: 5736147519321497751
+    second: MegaManTile_12
+  - first:
+      213: 8925780704608404364
+    second: MegaManTile_13
+  - first:
+      213: 1345694328801658788
+    second: MegaManTile_14
+  - first:
+      213: 6635115727414603883
+    second: MegaManTile_15
+  - first:
+      213: 2292429984786599114
+    second: MegaManTile_16
+  - first:
+      213: 7357071157440198332
+    second: MegaManTile_17
+  - first:
+      213: 8022886443525507339
+    second: MegaManTile_18
+  - first:
+      213: 5545039722948430542
+    second: MegaManTile_19
+  - first:
+      213: -3966339174377264517
+    second: MegaManTile_20
+  - first:
+      213: -2815898970421970898
+    second: MegaManTile_21
+  - first:
+      213: -1552745608647376514
+    second: MegaManTile_22
+  - first:
+      213: -5083957114946137064
+    second: MegaManTile_23
+  - first:
+      213: 4554449816713044854
+    second: MegaManTile_24
+  - first:
+      213: 2388460158316869917
+    second: MegaManTile_25
+  - first:
+      213: -8677840225220649367
+    second: MegaManTile_26
+  - first:
+      213: 3011046207087886071
+    second: MegaManTile_27
+  - first:
+      213: -7620678267941493724
+    second: MegaManTile_28
+  - first:
+      213: 6559744539571521910
+    second: MegaManTile_29
+  - first:
+      213: -413170725037056931
+    second: MegaManTile_30
+  - first:
+      213: 8507851699304621803
+    second: MegaManTile_31
+  - first:
+      213: -714883852200493045
+    second: MegaManTile_32
+  - first:
+      213: 5243840019252315178
+    second: MegaManTile_33
+  - first:
+      213: -385997355517667426
+    second: MegaManTile_34
+  - first:
+      213: -8927933447058463469
+    second: MegaManTile_35
+  - first:
+      213: -1094478114340906402
+    second: MegaManTile_36
+  - first:
+      213: 1972004102241713068
+    second: MegaManTile_37
+  - first:
+      213: 6477009742583072306
+    second: MegaManTile_38
+  - first:
+      213: -4740687331201174204
+    second: MegaManTile_39
+  - first:
+      213: -4443995536900157399
+    second: MegaManTile_40
+  - first:
+      213: 1257696567375454970
+    second: MegaManTile_41
+  - first:
+      213: 5019851054240753158
+    second: MegaManTile_42
+  - first:
+      213: -7818095159474965620
+    second: MegaManTile_43
+  - first:
+      213: 8416741479058148025
+    second: MegaManTile_44
+  - first:
+      213: -431957397779655664
+    second: MegaManTile_45
+  - first:
+      213: 352950204419512436
+    second: MegaManTile_46
+  - first:
+      213: -6015262933291431226
+    second: MegaManTile_47
+  - first:
+      213: -2232400282951236759
+    second: MegaManTile_48
+  - first:
+      213: -4921869638115247439
+    second: MegaManTile_49
+  - first:
+      213: -1681240421502017154
+    second: MegaManTile_50
+  - first:
+      213: -8277441868432112120
+    second: MegaManTile_51
+  - first:
+      213: -7343815862259083654
+    second: MegaManTile_52
+  - first:
+      213: -3687266162883967354
+    second: MegaManTile_53
+  - first:
+      213: 487797606341449889
+    second: MegaManTile_54
+  - first:
+      213: -8051737261136701212
+    second: MegaManTile_55
+  - first:
+      213: -3235462485568281589
+    second: MegaManTile_56
+  - first:
+      213: 1303861262070373276
+    second: MegaManTile_57
+  - first:
+      213: -273949949496038721
+    second: MegaManTile_58
+  - first:
+      213: -3104073970290133340
+    second: MegaManTile_59
+  - first:
+      213: -2409422303027966985
+    second: MegaManTile_60
+  - first:
+      213: -7833582671088502825
+    second: MegaManTile_61
+  - first:
+      213: -36054439759469019
+    second: MegaManTile_62
+  - first:
+      213: 4597535843314202504
+    second: MegaManTile_63
+  - first:
+      213: -5438840903991973262
+    second: MegaManTile_64
+  - first:
+      213: -5974581049340090179
+    second: MegaManTile_65
+  - first:
+      213: 7066377774259524544
+    second: MegaManTile_66
+  - first:
+      213: -8542686895778468725
+    second: MegaManTile_67
+  - first:
+      213: -2156932992160670906
+    second: MegaManTile_68
+  - first:
+      213: 3971788819272827676
+    second: MegaManTile_69
+  - first:
+      213: 6218432161660343902
+    second: MegaManTile_70
+  - first:
+      213: -6859753787483230690
+    second: MegaManTile_71
+  - first:
+      213: -6497200956779923414
+    second: MegaManTile_72
+  - first:
+      213: 3845169517765137661
+    second: MegaManTile_73
+  - first:
+      213: -8349020040812734531
+    second: MegaManTile_74
+  - first:
+      213: 8613795191997850526
+    second: MegaManTile_75
+  - first:
+      213: -2483067684334756600
+    second: MegaManTile_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaManTile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f4fbc1590a3ea50800000000000000
+      internalID: 6549254845419704095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d30652667d1390800000000000000
+      internalID: -7845984811087571153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ff03016d661f560800000000000000
+      internalID: 7345765536798670689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa170dbb5b8eba240800000000000000
+      internalID: 4804189294758490543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585af1fc770ecc10800000000000000
+      internalID: 2075604711481432150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931ec79825de5800800000000000000
+      internalID: 603153770436498325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a37f9f90bab8570800000000000000
+      internalID: 8470051583537134106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ce928267f33b20800000000000000
+      internalID: 3113103769913442386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0375a37cb4fdf1390800000000000000
+      internalID: -7845306509298084048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aee246d81594880800000000000000
+      internalID: -8626273943538439672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fa4231b16d2b360800000000000000
+      internalID: 7184039767382994816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f6c469e09c0e00800000000000000
+      internalID: 1012343348344060247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790656407c3ea9f40800000000000000
+      internalID: 5736147519321497751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c834831924ebedb70800000000000000
+      internalID: 8925780704608404364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70b7cbcdddca210800000000000000
+      internalID: 1345694328801658788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60b728899aa41c50800000000000000
+      internalID: 6635115727414603883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accc8a3ece850df10800000000000000
+      internalID: 2292429984786599114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6be7efc31991660800000000000000
+      internalID: 7357071157440198332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0982ab96b4075f60800000000000000
+      internalID: 8022886443525507339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca85c7cf30f3fc40800000000000000
+      internalID: 5545039722948430542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae684198bb4f8c0800000000000000
+      internalID: -3966339174377264517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e283c904ecaebe8d0800000000000000
+      internalID: -2815898970421970898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e718602881a837ae0800000000000000
+      internalID: -1552745608647376514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814d05e90f72279b0800000000000000
+      internalID: -5083957114946137064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67326805af7a43f30800000000000000
+      internalID: 4554449816713044854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1976a00cd3852120800000000000000
+      internalID: 2388460158316869917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e9026da4e129780800000000000000
+      internalID: -8677840225220649367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb2c7729269c920800000000000000
+      internalID: 3011046207087886071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424eecbcd79ed3690800000000000000
+      internalID: -7620678267941493724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679087a57e4e80b50800000000000000
+      internalID: 6559744539571521910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c53962a6f144af0800000000000000
+      internalID: -413170725037056931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be661c24b06f11670800000000000000
+      internalID: 8507851699304621803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004ded8ce83416f0800000000000000
+      internalID: -714883852200493045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a240386e6bcd5c840800000000000000
+      internalID: 5243840019252315178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9711244379a4aaf0800000000000000
+      internalID: -385997355517667426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31560c505db991480800000000000000
+      internalID: -8927933447058463469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a554c24f1afc0f0800000000000000
+      internalID: -1094478114340906402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfab96847fd5b10800000000000000
+      internalID: 1972004102241713068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23688615b06f2e950800000000000000
+      internalID: 6477009742583072306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4453f805df1b53eb0800000000000000
+      internalID: -4740687331201174204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92015afba91c352c0800000000000000
+      internalID: -4443995536900157399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af264ad4d5c347110800000000000000
+      internalID: 1257696567375454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606e36100f71aa540800000000000000
+      internalID: 5019851054240753158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833b4fdfdb808390800000000000000
+      internalID: -7818095159474965620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba8e8908c54ec470800000000000000
+      internalID: 8416741479058148025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014dd3b0901610af0800000000000000
+      internalID: -431957397779655664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47893d5475ee5e400800000000000000
+      internalID: 352950204419512436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca079e7b3e758ca0800000000000000
+      internalID: -6015262933291431226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c53a35cbe401e0800000000000000
+      internalID: -2232400282951236759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba3c5d24a102bbb0800000000000000
+      internalID: -4921869638115247439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7128568eb80ba8e0800000000000000
+      internalID: -1681240421502017154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068827f97e902d80800000000000000
+      internalID: -8277441868432112120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a761b2ae166851a90800000000000000
+      internalID: -7343815862259083654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cbf8f5f234dcc0800000000000000
+      internalID: -3687266162883967354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a89448a65105c600800000000000000
+      internalID: 487797606341449889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89b25fe9b724090800000000000000
+      internalID: -8051737261136701212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_56
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04a997f2045913d0800000000000000
+      internalID: -3235462485568281589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bd812e8ee381210800000000000000
+      internalID: 1303861262070373276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba6d0ee8fbb23cf0800000000000000
+      internalID: -273949949496038721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f15c8b2d1ce4d0800000000000000
+      internalID: -3104073970290133340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb4d1a5e23009ed0800000000000000
+      internalID: -2409422303027966985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d73d139016894390800000000000000
+      internalID: -7833582671088502825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526af859da8ef7ff0800000000000000
+      internalID: -36054439759469019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877ede9d7abdcf30800000000000000
+      internalID: 4597535843314202504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_64
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa1b7930b5584b0800000000000000
+      internalID: -5438840903991973262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ad48b036061da0800000000000000
+      internalID: -5974581049340090179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3547b7521d01260800000000000000
+      internalID: 7066377774259524544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c6db58787427980800000000000000
+      internalID: -8542686895778468725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b51fd1fd80112e0800000000000000
+      internalID: -2156932992160670906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1300af33e0ae1730800000000000000
+      internalID: 3971788819272827676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5611a7ba1f4c4650800000000000000
+      internalID: 6218432161660343902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eeb6a56424dc0a0800000000000000
+      internalID: -6859753787483230690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fdc8472e45d5a0800000000000000
+      internalID: -6497200956779923414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df41d87cd49cc5530800000000000000
+      internalID: 3845169517765137661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75db40282522c80800000000000000
+      internalID: -8349020040812734531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93effad6195a8770800000000000000
+      internalID: 8613795191997850526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManTile_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d99f1d81f5a8dd0800000000000000
+      internalID: -2483067684334756600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e20bf7e017f154459e67c8d5776bc6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MegaManTile_0: 6549254845419704095
+      MegaManTile_1: -7845984811087571153
+      MegaManTile_10: 7184039767382994816
+      MegaManTile_11: 1012343348344060247
+      MegaManTile_12: 5736147519321497751
+      MegaManTile_13: 8925780704608404364
+      MegaManTile_14: 1345694328801658788
+      MegaManTile_15: 6635115727414603883
+      MegaManTile_16: 2292429984786599114
+      MegaManTile_17: 7357071157440198332
+      MegaManTile_18: 8022886443525507339
+      MegaManTile_19: 5545039722948430542
+      MegaManTile_2: 7345765536798670689
+      MegaManTile_20: -3966339174377264517
+      MegaManTile_21: -2815898970421970898
+      MegaManTile_22: -1552745608647376514
+      MegaManTile_23: -5083957114946137064
+      MegaManTile_24: 4554449816713044854
+      MegaManTile_25: 2388460158316869917
+      MegaManTile_26: -8677840225220649367
+      MegaManTile_27: 3011046207087886071
+      MegaManTile_28: -7620678267941493724
+      MegaManTile_29: 6559744539571521910
+      MegaManTile_3: 4804189294758490543
+      MegaManTile_30: -413170725037056931
+      MegaManTile_31: 8507851699304621803
+      MegaManTile_32: -714883852200493045
+      MegaManTile_33: 5243840019252315178
+      MegaManTile_34: -385997355517667426
+      MegaManTile_35: -8927933447058463469
+      MegaManTile_36: -1094478114340906402
+      MegaManTile_37: 1972004102241713068
+      MegaManTile_38: 6477009742583072306
+      MegaManTile_39: -4740687331201174204
+      MegaManTile_4: 2075604711481432150
+      MegaManTile_40: -4443995536900157399
+      MegaManTile_41: 1257696567375454970
+      MegaManTile_42: 5019851054240753158
+      MegaManTile_43: -7818095159474965620
+      MegaManTile_44: 8416741479058148025
+      MegaManTile_45: -431957397779655664
+      MegaManTile_46: 352950204419512436
+      MegaManTile_47: -6015262933291431226
+      MegaManTile_48: -2232400282951236759
+      MegaManTile_49: -4921869638115247439
+      MegaManTile_5: 603153770436498325
+      MegaManTile_50: -1681240421502017154
+      MegaManTile_51: -8277441868432112120
+      MegaManTile_52: -7343815862259083654
+      MegaManTile_53: -3687266162883967354
+      MegaManTile_54: 487797606341449889
+      MegaManTile_55: -8051737261136701212
+      MegaManTile_56: -3235462485568281589
+      MegaManTile_57: 1303861262070373276
+      MegaManTile_58: -273949949496038721
+      MegaManTile_59: -3104073970290133340
+      MegaManTile_6: 8470051583537134106
+      MegaManTile_60: -2409422303027966985
+      MegaManTile_61: -7833582671088502825
+      MegaManTile_62: -36054439759469019
+      MegaManTile_63: 4597535843314202504
+      MegaManTile_64: -5438840903991973262
+      MegaManTile_65: -5974581049340090179
+      MegaManTile_66: 7066377774259524544
+      MegaManTile_67: -8542686895778468725
+      MegaManTile_68: -2156932992160670906
+      MegaManTile_69: 3971788819272827676
+      MegaManTile_7: 3113103769913442386
+      MegaManTile_70: 6218432161660343902
+      MegaManTile_71: -6859753787483230690
+      MegaManTile_72: -6497200956779923414
+      MegaManTile_73: 3845169517765137661
+      MegaManTile_74: -8349020040812734531
+      MegaManTile_75: 8613795191997850526
+      MegaManTile_76: -2483067684334756600
+      MegaManTile_8: -7845306509298084048
+      MegaManTile_9: -8626273943538439672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 1004bfd28622e0744a480f5b9ad0587a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1378187638309465037
+    second: "Roboz\xE3o_0"
+  - first:
+      213: -2738501153117050273
+    second: "Roboz\xE3o_1"
+  - first:
+      213: -6540783681006848912
+    second: "Roboz\xE3o_2"
+  - first:
+      213: 2148783109175597361
+    second: "Roboz\xE3o_3"
+  - first:
+      213: -2650100861110281473
+    second: "Roboz\xE3o_4"
+  - first:
+      213: -8877867193277102655
+    second: "Roboz\xE3o_5"
+  - first:
+      213: 5884237628469429338
+    second: "Roboz\xE3o_6"
+  - first:
+      213: 1997725041979784631
+    second: "Roboz\xE3o_7"
+  - first:
+      213: -2151757350743823216
+    second: "Roboz\xE3o_8"
+  - first:
+      213: 7838808697770205886
+    second: "Roboz\xE3o_9"
+  - first:
+      213: 3134473930757377309
+    second: "Roboz\xE3o_10"
+  - first:
+      213: 7888899305011400062
+    second: "Roboz\xE3o_11"
+  - first:
+      213: -2501852381967140648
+    second: "Roboz\xE3o_12"
+  - first:
+      213: -8150856875054175881
+    second: "Roboz\xE3o_13"
+  - first:
+      213: 8936985222659872121
+    second: "Roboz\xE3o_14"
+  - first:
+      213: 8066116668195782552
+    second: "Roboz\xE3o_15"
+  - first:
+      213: -392995364694387181
+    second: "Roboz\xE3o_16"
+  - first:
+      213: 3616531409694361563
+    second: "Roboz\xE3o_17"
+  - first:
+      213: -2000448058762133182
+    second: "Roboz\xE3o_18"
+  - first:
+      213: -6437090814291928669
+    second: "Roboz\xE3o_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Roboz\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 548
+        width: 140
+        height: 185
+      alignment: 9
+      pivot: {x: 0.52776927, y: 0.022898082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334dab815a1bfdce0800000000000000
+      internalID: -1378187638309465037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 548
+        width: 139
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5228223, y: 0.022847274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae57fd5b3eef9d0800000000000000
+      internalID: -2738501153117050273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 548
+        width: 142
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4957716, y: 0.025351034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0743aec85e77a35a0800000000000000
+      internalID: -6540783681006848912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 548
+        width: 144
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48106214, y: 0.023661185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13955c16ad202dd10800000000000000
+      internalID: 2148783109175597361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 548
+        width: 144
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48757595, y: 0.023661185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9092ce43f83bd0800000000000000
+      internalID: -2650100861110281473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 548
+        width: 143
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48399258, y: 0.023661185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5cf9d13da7bc480800000000000000
+      internalID: -8877867193277102655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 548
+        width: 160
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5583599, y: 0.022447791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5448e272f209a150800000000000000
+      internalID: 5884237628469429338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 308
+        width: 160
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5462316, y: 0.019467868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd7b1e575859bb10800000000000000
+      internalID: 1997725041979784631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 306
+        width: 143
+        height: 197
+      alignment: 9
+      pivot: {x: 0.498924, y: 0.010839472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c241a071c6322e0800000000000000
+      internalID: -2151757350743823216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 302
+        width: 141
+        height: 197
+      alignment: 9
+      pivot: {x: 0.48437545, y: 0.018783957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2e5d49afa09cc60800000000000000
+      internalID: 7838808697770205886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 302
+        width: 144
+        height: 197
+      alignment: 9
+      pivot: {x: 0.48755944, y: 0.019888941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0480de63ef7b20800000000000000
+      internalID: 3134473930757377309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 302
+        width: 142
+        height: 197
+      alignment: 9
+      pivot: {x: 0.50026995, y: 0.020993926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc708ee100b7d60800000000000000
+      internalID: 7888899305011400062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 302
+        width: 178
+        height: 197
+      alignment: 9
+      pivot: {x: 0.59033304, y: 0.019888941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d832649382a74dd0800000000000000
+      internalID: -2501852381967140648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 219
+        width: 51
+        height: 33
+      alignment: 9
+      pivot: {x: 1.0138998, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77968537bd652ee80800000000000000
+      internalID: -8150856875054175881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_14"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 163
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9759e87b5bc860c70800000000000000
+      internalID: 8936985222659872121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 78
+        width: 192
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbaa4af5a90ff60800000000000000
+      internalID: 8066116668195782552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_16"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 70
+        width: 217
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31614094ccccb8af0800000000000000
+      internalID: -392995364694387181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_17"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 209
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd700e9e720803230800000000000000
+      internalID: 3616531409694361563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_18"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 150
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410dd1e61bfc34e0800000000000000
+      internalID: -2000448058762133182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_19"
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 93
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a91333720cdaa6a0800000000000000
+      internalID: -6437090814291928669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_20"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 223
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d06088ff28e1f4aabbeb131db8b8b3
+      internalID: 440018579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Roboz\xE3o_21"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 223
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff2c18883078c4598a13af1b1f8104
+      internalID: -620891143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78b4c7d2331f74343b2f5bf96759b5a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Roboz\xE3o_0": -1378187638309465037
+      "Roboz\xE3o_1": -2738501153117050273
+      "Roboz\xE3o_10": 3134473930757377309
+      "Roboz\xE3o_11": 7888899305011400062
+      "Roboz\xE3o_12": -2501852381967140648
+      "Roboz\xE3o_13": -8150856875054175881
+      "Roboz\xE3o_14": 8936985222659872121
+      "Roboz\xE3o_15": 8066116668195782552
+      "Roboz\xE3o_16": -392995364694387181
+      "Roboz\xE3o_17": 3616531409694361563
+      "Roboz\xE3o_18": -2000448058762133182
+      "Roboz\xE3o_19": -6437090814291928669
+      "Roboz\xE3o_2": -6540783681006848912
+      "Roboz\xE3o_20": 440018579
+      "Roboz\xE3o_21": -620891143
+      "Roboz\xE3o_3": 2148783109175597361
+      "Roboz\xE3o_4": -2650100861110281473
+      "Roboz\xE3o_5": -8877867193277102655
+      "Roboz\xE3o_6": 5884237628469429338
+      "Roboz\xE3o_7": 1997725041979784631
+      "Roboz\xE3o_8": -2151757350743823216
+      "Roboz\xE3o_9": 7838808697770205886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
